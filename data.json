@@ -1,0 +1,9 @@
+[
+    {
+        "category": "fruits",
+        "produit": "banan",
+        "stock": 1,
+        "prix": 10,
+        "numero_facture": 18
+    }
+]

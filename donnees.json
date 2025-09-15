@@ -1,0 +1,9 @@
+[
+    {
+        "category": "fruits de mer",
+        "produit": "mollusque",
+        "stock": 1,
+        "prix": 20,
+        "numero_facture": 38
+    }
+]
